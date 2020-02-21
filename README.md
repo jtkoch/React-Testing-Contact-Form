@@ -33,6 +33,7 @@ As a developer, you will be writing tests for every component. As we've learned,
 - [ ] With each saved change in your editor, the test runner will re-run all the tests
 - [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
+
 ## Instructions and/or completion requirements (MVP)
 
 In order to complete your mission for today, you will need to write tests to help you feel confident in shipping this component. Below is a _general_ outline of how to accomplish this.
